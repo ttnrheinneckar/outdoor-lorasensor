@@ -1,4 +1,4 @@
-# outdoor-lorasensor
-Documentation about the outdoor-climate sensor of TTN Rhein-Neckar
+# Stückliste
 
-ttn2
+# Aufbauanleitung
+
