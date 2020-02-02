@@ -2,5 +2,5 @@
 
 # Aufbauanleitung
 
-![Bild 1](images/lora-outdoor-01.png)
+![Bild 1](docs/images/lora-outdoor-01.png)
 
